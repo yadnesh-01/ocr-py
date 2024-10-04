@@ -1,0 +1,7 @@
+Sr.,Name,Type,Data
+1,Ruid,Varchar(15),User id
+2,Upass,Varchar(255),Password
+3,rname,Varchar(25),Restaurant Name
+4,Radd,Varchar(100),Address
+5,rcontact,Varchar(10),Contact Number
+1,email,Varchar(255),Email
